@@ -24,19 +24,31 @@ h3 {
 }
 
 .bottom-container {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
+
 }
 
 .middle-container {
+
+}
+
+.computer-img {
+  border-radius: 50%;
   height: 200px;
   width: 200px;
-  background-color: red;
+}
+
+.nhd-img {
+  height: 200px;
+  width: 200px;
 }
 
 .pro {
   text-decoration: underline;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 200px;
 }
 
 .top-cloud {
